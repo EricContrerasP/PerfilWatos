@@ -33,5 +33,4 @@
    social:hasSpiritAnimal dbr:panda ;
    social:hasFavouritePlatonicSolid dbr:prisma ;
    foaf:myersBriggs "INTP" ;#en proceso
-   foaf:currentProject "Cuantificacion de la geologia" ;
-   foaf:based_near earth .
+   foaf:currentProject "Cuantificacion de la geologia" .
