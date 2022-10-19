@@ -1,6 +1,6 @@
 @base <https://raw.githubusercontent.com/EricContrerasP/PerfilWatos/main/ec.ttl> .
 
-@prefix aa: <https://raw.githubusercontent.com/EricContrerasP/PerfilWatos/main/ec.ttl#> .
+@prefix ec: <https://raw.githubusercontent.com/EricContrerasP/PerfilWatos/main/ec.ttl#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
@@ -13,10 +13,10 @@
 <> a foaf:Document ;
    dc:date "2022-10-19"^^xsd:date ;
    dc:title "Eric's FOAF Profile"@en ;
-   foaf:primaryTopic <#aa> ;
-   dc:creator <#aa> .
+   foaf:primaryTopic <#ec> ;
+   dc:creator <#ec> .
 
-<#aa> a foaf:Person ;
+<#ec> a foaf:Person ;
    rdfs:label "Eric Contreras" ;
    rdfs:comment "Associate Student of the DCC"@es , "Alumno Asociado del DCC"@es ;
    foaf:name "Eric Contreras" ;
