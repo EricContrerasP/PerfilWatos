@@ -24,7 +24,8 @@
    foaf:familyName "Contreras" ;
    foaf:age 23 ; # it would be better to put date of birth to not have to update every birthday, but hey 🙂
    foaf:img <https://ucampus.uchile.cl/d/r/usuario/ce/ce0da462244a2e0ee2807c25d5e88b99/perfil/3650ea74b2e6a1760c75332ff6698304_200.jpg> ;
-   foaf:knows <https://raw.githubusercontent.com/Pasta212/perfilwatos/main/aa.ttl#aa>, <https://raw.githubusercontent.com/jingluoz/Watos-Lab9/master/perfil.ttl#jl>  ;
+   foaf:knows <http://users.dcc.uchile.cl/~ahogan/foaf.ttl#ah>, <https://raw.githubusercontent.com/Pasta212/perfilwatos/main/aa.ttl#aa>, <https://raw.githubusercontent.com/jingluoz/Watos-Lab9/master/perfil.ttl#jl>,
+   <http://anakena.dcc.uchile.cl/~jasalas#js>;
    foaf:interest dbr:Semantic_Web , dbr:Big_data , dbr:Hurling ; 
    social:hasEnemy <https://raw.githubusercontent.com/jingluoz/Watos-Lab9/master/perfil.ttl#jl>,<https://raw.githubusercontent.com/Pasta212/perfilwatos/main/aa.ttl#aa> ;
    social:likesMovie dbr:TheLordOfTheRings:TheTrilogy , dbr:TheHobbit:TheTrilogy , dbr:TheAvengers , dbr:TheAvengers:InfinityWar ;
